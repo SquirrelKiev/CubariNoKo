@@ -6,6 +6,13 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "131": {
+      "volume": "14",
+      "title": "Chapter 131",
+      "groups": {
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-131/"
+      }
+    },
     "130": {
       "volume": "13",
       "title": "Basic Tactic",
