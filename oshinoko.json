@@ -6,11 +6,18 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "132": {
+      "volume": "14",
+      "title": "Nino",
+      "groups": {
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-132/"
+      }
+    },
     "131": {
       "volume": "14",
       "title": "Atonement",
       "groups": {
-        "YKS Services": "/proxy/api/imgur/chapter/YG2lpNM"
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-131/"
       }
     },
     "130": {
