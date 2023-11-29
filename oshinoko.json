@@ -6,6 +6,13 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "133": {
+      "volume": "14",
+      "title": "Acting",
+      "groups": {
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-133/"
+      }
+    },
     "132": {
       "volume": "14",
       "title": "Nino",
