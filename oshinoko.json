@@ -6,6 +6,13 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "136": {
+      "volume": "14",
+      "title": "Fight",
+      "groups": {
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-136/"
+      }
+    },
     "135": {
       "volume": "14",
       "title": "By Her Side",
