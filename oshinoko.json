@@ -6,6 +6,13 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "139": {
+      "volume": "14",
+      "title": "Lookism",
+      "groups": {
+        "YKS Services": "/proxy/api/imgur/chapter/fmZ8Xcz/"
+      }
+    },
     "138": {
       "volume": "14",
       "title": "Amends",
