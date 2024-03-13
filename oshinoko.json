@@ -6,11 +6,18 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "143": {
+      "volume": "15",
+      "title": "Blind Follower",
+      "groups": {
+        "YKS Services": "/proxy/api/imgur/chapter/PYvsSPC/"
+      }
+    },
     "142": {
       "volume": "15",
       "title": "Responsibility",
       "groups": {
-        "YKS Services": "/proxy/api/imgur/chapter/VJin6As/"
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-142/"
       }
     },
     "141": {
