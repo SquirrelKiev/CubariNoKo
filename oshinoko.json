@@ -6,11 +6,37 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "144": {
+      "volume": "15",
+      "title": "Fan Of The Originals",
+      "groups": {
+        "YKS Services": [
+          "https://i.imgur.com/ahq9WWR.jpeg",
+          "https://i.imgur.com/AyK0GCA.jpeg",
+          "https://i.imgur.com/AJJOHvD.jpeg",
+          "https://i.imgur.com/TsoQnPS.jpeg",
+          "https://i.imgur.com/pmfWOM0.jpeg",
+          "https://i.imgur.com/Ltb5Hyc.jpeg",
+          "https://i.imgur.com/ywwk7Ob.jpeg",
+          "https://i.imgur.com/KtkrT8O.jpeg",
+          "https://i.imgur.com/1PrmoCP.jpeg",
+          "https://i.imgur.com/TIF3J64.jpeg",
+          "https://i.imgur.com/IFK4M5W.jpeg",
+          "https://i.imgur.com/DlkwiWm.jpeg",
+          "https://i.imgur.com/X2e2rAS.jpeg",
+          "https://i.imgur.com/AIpTIk6.jpeg",
+          "https://i.imgur.com/1n2QQXa.jpeg",
+          "https://i.imgur.com/KAl2gSo.jpeg",
+          "https://i.imgur.com/B6ZfEcM.jpeg",
+          "https://i.imgur.com/0yQ1uhW.jpeg"
+        ]
+      }
+    },
     "143": {
       "volume": "15",
       "title": "Blind Follower",
       "groups": {
-        "YKS Services": "/proxy/api/imgur/chapter/PYvsSPC/"
+        "YKS Services": "/read/api/mangasee/chapter/Oshi-no-Ko-chapter-143/"
       }
     },
     "142": {
