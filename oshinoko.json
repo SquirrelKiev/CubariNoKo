@@ -6,6 +6,14 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+      "148": {
+      "volume": "15",
+      "title": "Wish",
+      "groups": {
+        "YKS Services": "/proxy/api/imgur/chapter/u9w87Wr/"
+      }
+    },
+  "chapters": {
       "147": {
       "volume": "15",
       "title": "Wish",
