@@ -6,6 +6,12 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "151": {
+      "volume": "16",
+      "title": "Catch Knife",
+      "groups": {
+        "YKS Services": "/proxy/api/imgur/chapter/ne4gq1w/"
+      }
     "150": {
       "volume": "15",
       "title": "Knife",
