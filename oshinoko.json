@@ -6,6 +6,13 @@
   "artist": "Yokoyari Mengo",
   "cover": "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
   "chapters": {
+    "158": {
+      "volume": "16",
+      "title": "Jewel",
+      "groups": {
+        "YKS Services": "/proxy/api/imgur/chapter/gZm6phQ/"
+      }
+    },
     "157": {
       "volume": "16",
       "title": "An Ordinary Day, A Wonderful Day",
